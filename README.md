@@ -3,9 +3,9 @@ We are four students of ITM GOI and we have decided to make a cross-platform app
 
 Team Memebers:<br>
 <a href="https://github.com/KKA-0">Karan Agarwal</a><br>
-<a href="https://github.com/KKA-0">Kaif Khan </a><br>
-<a href="https://github.com/KKA-0">Dhruv Bajpai</a><br>
-<a href="https://github.com/KKA-0">Muaaz Ansari</a>
+<a href="https://github.com/kaifkhan1234">Kaif Khan </a><br>
+<a href="#">Dhruv Bajpai</a><br>
+<a href="#">Muaaz Ansari</a>
 
 
 
