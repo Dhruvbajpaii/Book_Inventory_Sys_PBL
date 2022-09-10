@@ -1,6 +1,13 @@
 # Book-Inventory-Sys-PBL-
 We are four students of ITM GOI and we have decided to make a cross-platform application for our PBL Project.
 
+Team Memebers:
+Karan Agarwal
+Kaif Khan 
+Dhruv Bajpai
+Muaaz Ansari
+
+
 On The Topic:
 
 <h1>Project BIS</h1>
