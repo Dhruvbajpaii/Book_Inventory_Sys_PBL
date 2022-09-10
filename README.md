@@ -17,7 +17,7 @@ Book Inventory System is a topic for our PBL(Project Based Learning) here, We ar
 <li>list of students</li>
 <li>expiry date and Fine calculator.</li>
 
-<h1>Project BIS</h1>
+<h1>Project BIS</h1><br>
 This is going to be fully functional management system for librarys, With cross-platform support.
 we will be using C++ in making of this project.<br>
 
