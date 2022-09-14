@@ -9,9 +9,9 @@ We are four students of ITM GOI and we have decided to make a cross-platform app
 <a href="#references">5. References</a><br>
 
 <h2>Team Members And There Work:</h2>
-<a href="https://github.com/muaaz123456789">Muaaz Ansari</a><br>
+<a href="https://github.com/muaaz123456789">Muaaz Ansari - <b>DSA</b></a><br>
 <a href="https://github.com/KKA-0">Karan Agarwal - <b>WinFroms</b> (GUI)</a><br>
-<a href="https://github.com/kaifkhan1234">Kaif Khan </a><br>
+<a href="https://github.com/kaifkhan1234">Kaif Khan - <b>OOPS</b></a><br>
 <a href="https://github.com/Dhruvbajpaii">Dhruv Bajpai - <b>File Handling</b></a><br>
 
 
