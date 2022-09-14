@@ -35,10 +35,10 @@ we will be using C++ in making of this project.<br><br>
 
 
 <h2>References</h2>
-1. YouTube
-2. DSA
-3. OOPS
-4. GitHub
-5. StackOverflow
+1. YouTube<br>
+2. DSA<br>
+3. OOPS<br>
+4. GitHub<br>
+5. StackOverflow<br>
 
 
