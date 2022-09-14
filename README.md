@@ -12,9 +12,9 @@ We are four students of ITM GOI and we have decided to make a cross-platform app
 Book Inventory System is a topic for our PBL(Project Based Learning) here, We are going to make a application in which we be able to make:
 <li>Adding Books</li>
 <li>List of Books</li>
-<li>Issue books</li>
-<li>Add students</li>
-<li>List of students</li>
+<li>Issue Books</li>
+<li>Add Students</li>
+<li>List Of Students</li>
 <li>Expiry Date and Fine Calculator.</li>
 
 <h1>Project BIS</h1><br>
