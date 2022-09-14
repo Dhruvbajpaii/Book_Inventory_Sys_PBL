@@ -3,7 +3,7 @@ We are four students of ITM GOI and we have decided to make a cross-platform app
 
 <h2>Team Members And There Work:</h2>
 <a href="https://github.com/muaaz123456789">Muaaz Ansari</a><br>
-<a href="https://github.com/KKA-0">Karan Agarwal</a><br>
+<a href="https://github.com/KKA-0">Karan Agarwal - WinFroms (GUI)</a><br>
 <a href="https://github.com/kaifkhan1234">Kaif Khan </a><br>
 <a href="https://github.com/Dhruvbajpaii">Dhruv Bajpai</a><br>
 
