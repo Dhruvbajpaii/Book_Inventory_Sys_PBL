@@ -2,11 +2,11 @@
 We are four students of ITM GOI and we have decided to make a cross-platform application for our PBL Project.
 
 Context: 
-<a href="#team-members-and-there-work">Team Members And There Work</a>
-<a href="#on-the-topic">On The Topic</a>
-<a href="#project-bis">Project BIS</a>
-<a href="#technology-used-in-making">Technology Used in Making</a>
-<a href="#references">References</a>
+<a href="#team-members-and-there-work">Team Members And There Work</a><br>
+<a href="#on-the-topic">On The Topic</a><br>
+<a href="#project-bis">Project BIS</a><br>
+<a href="#technology-used-in-making">Technology Used in Making</a><br>
+<a href="#references">References</a><br>
 
 <h2>Team Members And There Work:</h2>
 <a href="https://github.com/muaaz123456789">Muaaz Ansari</a><br>
