@@ -1,7 +1,7 @@
 # Introduction To Project BIS
 We are four students of ITM GOI and we have decided to make a cross-platform application for our PBL Project.
 
-Context: <br>
+<h6>Context:</h6> <br>
 <a href="#team-members-and-there-work">1. Team Members And There Work</a><br>
 <a href="#on-the-topic">2. On The Topic</a><br>
 <a href="#project-bis">3. Project BIS</a><br>
