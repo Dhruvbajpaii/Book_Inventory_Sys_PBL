@@ -12,7 +12,7 @@ We are four students of ITM GOI and we have decided to make a cross-platform app
 <a href="https://github.com/muaaz123456789">Muaaz Ansari - <b>DSA</b></a><br>
 <a href="https://github.com/KKA-0">Karan Agarwal - <b>Win32 API</b> (GUI)</a><br>
 <a href="https://github.com/kaifkhan1234">Kaif Khan - <b>OOPS</b></a><br>
-<a href="https://github.com/Dhruvbajpaii">Dhruv Bajpai - <b>File Handling</b></a><br>
+<a href="https://github.com/Dhruvbajpaii">Dhruv Bajpai - <b>File Handling</b> Read/Write</a><br>
 
 
 <h2>On The Topic:</h2>
