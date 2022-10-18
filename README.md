@@ -12,11 +12,7 @@ We are four students of ITM GOI and we have decided to make a cross-platform app
 <a href="https://github.com/muaaz123456789">Muaaz Ansari - <b>DSA</b>()</a><br>
 <a href="https://github.com/KKA-0">Karan Agarwal - <b>Win32 API</b> (GUI)</a><br>
 <a href="https://github.com/kaifkhan1234">Kaif Khan - <b>OOPS</b> (DRY)</a><br>
-<a href="https://github.com/Dhruvbajpaii">Dhruv Bajpai - <b>File Handling</b> (R/W)</a><br>
-![Project-BIS (PBL) 3](https://user-images.githubusercontent.com/111446972/196386811-53cf68c3-0da9-4575-aaa3-3d88d42991b8.png)
-
-![Opera Snapshot_2022-09-10_113359_jamboard google com]([https://user-images.githubusercontent.com/85556603/189471633-4dfdd463-5f86-4960-ba61-3268a3569647.png](https://user-images.githubusercontent.com/111446972/196386811-53cf68c3-0da9-4575-aaa3-3d88d42991b8.png))
-
+<img src="https://user-images.githubusercontent.com/85556603/189471633-4dfdd463-5f86-4960-ba61-3268a3569647.png" alt="Italian Trulli">
 <h2>On The Topic:</h2>
 Book Inventory System is a topic for our PBL(Project Based Learning) here, We are going to make a application in which we be able to make:
 <li>Adding Books</li>
