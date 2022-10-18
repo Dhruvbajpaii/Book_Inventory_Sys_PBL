@@ -12,7 +12,7 @@ We are four students of ITM GOI and we have decided to make a cross-platform app
 <a href="https://github.com/muaaz123456789">Muaaz Ansari - <b>DSA</b>()</a><br>
 <a href="https://github.com/KKA-0">Karan Agarwal - <b>Win32 API</b> (GUI)</a><br>
 <a href="https://github.com/kaifkhan1234">Kaif Khan - <b>OOPS</b> (DRY)</a><br><br><br>
-<img src="[https://user-images.githubusercontent.com/85556603/189471633-4dfdd463-5f86-4960-ba61-3268a3569647.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAW_ok4Dv3unhrc4zyMlRFshp5GupHyQeNsMnukn0Edj12HicY4kFLy37lyJU32RpaD1hY2Kmdx8d-1wTgGy5XPdfmfeNK-m08T7mRZDtfnCPSaCS5yP_Wb1elE3q2HTE5a6HqVsVFB9xDb_0a5KXaVO-Bz1BwKJAC4VJT4ExAg26qrNJodWew_Fs3/s1422/Project-BIS%20(PBL)%203.png)" alt="team works">
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAW_ok4Dv3unhrc4zyMlRFshp5GupHyQeNsMnukn0Edj12HicY4kFLy37lyJU32RpaD1hY2Kmdx8d-1wTgGy5XPdfmfeNK-m08T7mRZDtfnCPSaCS5yP_Wb1elE3q2HTE5a6HqVsVFB9xDb_0a5KXaVO-Bz1BwKJAC4VJT4ExAg26qrNJodWew_Fs3/s1422/Project-BIS%20(PBL)%203.png" alt="team works">
 <h2>On The Topic:</h2>
 Book Inventory System is a topic for our PBL(Project Based Learning) here, We are going to make a application in which we be able to make:
 <li>Adding Books</li>
