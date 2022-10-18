@@ -13,6 +13,7 @@ We are four students of ITM GOI and we have decided to make a cross-platform app
 <a href="https://github.com/KKA-0">Karan Agarwal - <b>Win32 API</b> (GUI)</a><br>
 <a href="https://github.com/kaifkhan1234">Kaif Khan - <b>OOPS</b> (DRY)</a><br>
 <a href="https://github.com/Dhruvbajpaii">Dhruv Bajpai - <b>File Handling</b> (R/W)</a><br>
+![Project-BIS (PBL) 3](https://user-images.githubusercontent.com/111446972/196386811-53cf68c3-0da9-4575-aaa3-3d88d42991b8.png)
 
 
 <h2>On The Topic:</h2>
