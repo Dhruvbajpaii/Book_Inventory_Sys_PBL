@@ -1,0 +1,6 @@
+C:\Users\WELCOME\source\repos\BIS\x64\Debug\BIS.vcxproj.AssemblyReference.cache
+C:\Users\WELCOME\source\repos\BIS\x64\Debug\BIS.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\WELCOME\source\repos\BIS\x64\Debug\BIS.addbook.resources
+C:\Users\WELCOME\source\repos\BIS\x64\Debug\BIS.home.resources
+C:\Users\WELCOME\source\repos\BIS\x64\Debug\BIS.vcxproj.GenerateResource.cache
+C:\Users\WELCOME\source\repos\BIS\x64\Debug\BIS.exe
