@@ -16,3 +16,9 @@ C:\Users\WELCOME\source\repos\BIS 1\obj\Debug\net6.0-windows\refint\BIS 1.dll
 C:\Users\WELCOME\source\repos\BIS 1\obj\Debug\net6.0-windows\BIS 1.pdb
 C:\Users\WELCOME\source\repos\BIS 1\obj\Debug\net6.0-windows\BIS 1.genruntimeconfig.cache
 C:\Users\WELCOME\source\repos\BIS 1\obj\Debug\net6.0-windows\ref\BIS 1.dll
+C:\Users\WELCOME\source\repos\BIS 1\obj\Debug\net6.0-windows\BIS_1.issue.resources
+C:\Users\WELCOME\source\repos\BIS 1\obj\Debug\net6.0-windows\BIS_1.addbook.resources
+C:\Users\WELCOME\source\repos\BIS 1\obj\Debug\net6.0-windows\BIS_1.adduser.resources
+C:\Users\WELCOME\source\repos\BIS 1\obj\Debug\net6.0-windows\BIS_1.listbook.resources
+C:\Users\WELCOME\source\repos\BIS 1\obj\Debug\net6.0-windows\BIS_1.listuser.resources
+C:\Users\WELCOME\source\repos\BIS 1\obj\Debug\net6.0-windows\BIS_1.search.resources
