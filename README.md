@@ -12,10 +12,10 @@ We are four students of ITM GOI and we have decided to make a cross-platform app
 <a href="#references">5. References</a><br>
 
 <h2>Team Members And There Work:</h2>
-<a href="https://github.com/muaaz123456789">Muaaz Ansari - <b>DSA</b></a><br>
-<a href="https://github.com/KKA-0">Karan Agarwal - <b>Winforms</b> (GUI C# & .NET)</a><br>
-<a href="https://github.com/kaifkhan1234">Kaif Khan - <b>OOPS</b> (DRY)</a><br>
-<a href="https://github.com/Dhruvbajpaii">Dhruv Bajpai - <b>File Handling</b> (R/W)</a><br><br><br>
+<a href="https://github.com/muaaz123456789">Muaaz Ansari - <b>DSA</b></a> 0%<br>
+<a href="https://github.com/KKA-0">Karan Agarwal - <b>Winforms</b> (GUI C# & .NET)</a> 100%<br>
+<a href="https://github.com/kaifkhan1234">Kaif Khan - <b>OOPS</b> (DRY)</a> 0%<br>
+<a href="https://github.com/Dhruvbajpaii">Dhruv Bajpai - <b>File Handling</b> (R/W)</a> 0%<br><br><br>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAW_ok4Dv3unhrc4zyMlRFshp5GupHyQeNsMnukn0Edj12HicY4kFLy37lyJU32RpaD1hY2Kmdx8d-1wTgGy5XPdfmfeNK-m08T7mRZDtfnCPSaCS5yP_Wb1elE3q2HTE5a6HqVsVFB9xDb_0a5KXaVO-Bz1BwKJAC4VJT4ExAg26qrNJodWew_Fs3/s1422/Project-BIS%20(PBL)%203.png" alt="team works">
 <h2>On The Topic:</h2>
 Book Inventory System is a topic for our PBL(Project Based Learning) here, We are going to make a application in which we be able to make:
