@@ -1,3 +1,6 @@
+![MJ1Q7hHeGlA(1)](https://user-images.githubusercontent.com/85556603/202894846-e65a3114-0b17-432d-8879-2c7f86b6645d.png)
+
+
 # Introduction To Project BIS
 We are four students of ITM GOI and we have decided to make a cross-platform application for our PBL Project.
 
@@ -9,10 +12,10 @@ We are four students of ITM GOI and we have decided to make a cross-platform app
 <a href="#references">5. References</a><br>
 
 <h2>Team Members And There Work:</h2>
-<a href="https://github.com/muaaz123456789">Muaaz Ansari - <b>DSA</b></a><br>
-<a href="https://github.com/KKA-0">Karan Agarwal - <b>Win32 API</b> (GUI)</a><br>
-<a href="https://github.com/kaifkhan1234">Kaif Khan - <b>OOPS</b> (DRY)</a><br>
-<a href="https://github.com/Dhruvbajpaii">Dhruv Bajpai - <b>File Handling</b> (R/W)</a><br><br><br>
+<a href="https://github.com/muaaz123456789">Muaaz Ansari - <b>DSA</b></a> 0%<br>
+<a href="https://github.com/KKA-0">Karan Agarwal - <b>Winforms</b> (GUI C# & .NET)</a> 100%<br>
+<a href="https://github.com/kaifkhan1234">Kaif Khan - <b>OOPS</b> (DRY)</a> 0%<br>
+<a href="https://github.com/Dhruvbajpaii">Dhruv Bajpai - <b>File Handling</b> (R/W)</a> 0%<br><br><br>
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAW_ok4Dv3unhrc4zyMlRFshp5GupHyQeNsMnukn0Edj12HicY4kFLy37lyJU32RpaD1hY2Kmdx8d-1wTgGy5XPdfmfeNK-m08T7mRZDtfnCPSaCS5yP_Wb1elE3q2HTE5a6HqVsVFB9xDb_0a5KXaVO-Bz1BwKJAC4VJT4ExAg26qrNJodWew_Fs3/s1422/Project-BIS%20(PBL)%203.png" alt="team works">
 <h2>On The Topic:</h2>
 Book Inventory System is a topic for our PBL(Project Based Learning) here, We are going to make a application in which we be able to make:
@@ -48,5 +51,9 @@ we will be using C++ in making of this project.<br><br>
 3. OOPS<br>
 4. GitHub<br>
 5. StackOverflow<br>
+
+<h2>Alpha GUI Testing:</h2>
+
+https://user-images.githubusercontent.com/85556603/201339663-2ff7f27a-44ff-40a0-9b09-6677b9c61a7f.mp4
 
 
